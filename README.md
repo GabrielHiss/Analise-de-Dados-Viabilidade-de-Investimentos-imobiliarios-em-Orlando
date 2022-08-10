@@ -1,3 +1,5 @@
+Apresentação completa do caso em: https://medium.com/@gabriel.hiss 
+
 <b> Importando os dados </b> 🎲
 
 Os dados foram obtidos pela [Datascy](https://www.datascy.com/) e estão disponíveis no meu [GitHub](https://github.com/GabrielHiss/Analise-de-Dados-Viabilidade-de-Investimentos-imobiliarios-em-Orlando/blob/main/OrlandoAirbnbRentalDataAnalytics-%20Sem%20tratamento.xlsx).
